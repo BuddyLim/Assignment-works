@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=City
+comment1.params=name\ id
+comment1.target=City(java.lang.String,\ int)
+comment10.params=city
+comment10.target=void\ addFlight(City)
+comment11.params=city
+comment11.target=void\ removeFlight(City)
+comment12.params=
+comment12.target=java.util.ArrayList\ getFlight()
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getCityname()
+comment4.params=attractions
+comment4.target=Attraction\ addAttraction(Attraction)
+comment5.params=
+comment5.target=java.util.ArrayList\ getshop()
+comment6.params=
+comment6.target=java.util.ArrayList\ getculture()
+comment7.params=
+comment7.target=java.util.ArrayList\ getsport()
+comment8.params=
+comment8.target=java.util.ArrayList\ getAttractions()
+comment9.params=index
+comment9.target=java.util.ArrayList\ removeAttraction(int)
+numComments=13
