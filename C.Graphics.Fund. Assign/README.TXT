@@ -1,0 +1,1 @@
+A brief introduction to graphical modeling using hardware & softwares and then exporting the file into softwares like Blender and 3DSMax to observe the limitations of using hardware & software during the creation process of a model.
